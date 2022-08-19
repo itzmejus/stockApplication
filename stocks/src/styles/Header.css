@@ -1,0 +1,13 @@
+.bgColor {
+  background-color: #e0f2ff !important;
+}
+.bg1{
+  background-color: #ECF8E8 !important;
+}
+body {
+  background-image: linear-gradient(to bottom right, #ECF8E8, #e0f2ff);
+}
+input{
+    border-radius: 10px !important;
+    height: 45px !important;
+}
